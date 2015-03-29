@@ -18,7 +18,6 @@ public class Calculator extends Activity implements OnClickListener {
 	private Button buttonFour;
 	private Button buttonFive;
 	private Button buttonSix;
-	private Button buttonTest;
 	private Button buttonSeven;
 	private Button buttonEigth;
 	private Button buttonNine;
